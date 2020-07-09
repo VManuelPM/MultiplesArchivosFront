@@ -1,0 +1,10 @@
+#titulo{
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    line-height: 50px;
+    padding: 20px;
+    text-align: center;
+}
